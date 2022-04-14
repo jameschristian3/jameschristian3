@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jameschristian3
+- 👋 Hi, I’m James Christian
 - 👀 I’m interested in Data Analysis using SQL and Tableau
 - 🌱 I’m currently learning SQL and Tableau
 - 📫 How to reach me email - christianj0502@gmail.com
